@@ -1,4 +1,4 @@
-# blue-steel
+# Mary and Martha
 
 **Domain**: Sustainability / Battery Intelligence  
 **Type**: Developer Tool / SaaS Prototype  
